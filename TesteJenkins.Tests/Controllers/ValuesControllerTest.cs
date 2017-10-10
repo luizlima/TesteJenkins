@@ -16,7 +16,6 @@ namespace TesteJenkins.Tests.Controllers
         [TestMethod]
         public void Get()
         {
-
             // Organizar
             ValuesController controller = new ValuesController();
 
